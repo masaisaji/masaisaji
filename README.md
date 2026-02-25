@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Masafumi (Masa) Isaji👋
 
-<!--
-**masaisaji/masaisaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on *space systems optimization* — combining **optimization modeling and algorithms** (MINLP, decomposition, relaxation) with **space logistics and mission planning** for future missions.
 
-Here are some ideas to get you started:
+- 🎓 Background: Aerospace Engineering / Operations Research
+- 🛰️ Space Applications: space logistics, integrated ConOps + systems design, in-orbit servicing
+- 🔧 OR Interests: nonconvex MINLP, decomposition, global optimization, stochastic programming, GPU computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Public Repos
+- **[space-logistics-optimization](https://github.com/masaisaji/space-logistics-optimization)**: Mixed-integer optimization toolbox for space logistics and mission planning in Python
+- **[alcoord](https://github.com/masaisaji/alcoord)**: Python implementation of Augmented Lagrangian Coordination framework for decomposition-based optimization
+- **[gpu-matrixfree-ipm](https://github.com/masaisaji/gpu-matrixfree-ipm)**: C + CUDA C implementation of GPU accelerated matrix-free interior point method for LP
+
+## Links
+- [Google Scholar](https://scholar.google.com/citations?user=YVFMhRYAAAAJ&hl=en&authuser=1)
+- [ResearchGate](https://www.researchgate.net/profile/Masafumi-Isaji)
+- [ORCID](https://orcid.org/0000-0003-1050-8855)
+- [LinkedIn](www.linkedin.com/in/masafumi-isaji-24a40a142)
