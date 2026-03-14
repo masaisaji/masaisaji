@@ -10,6 +10,7 @@ I work on *space systems optimization* — combining **optimization modeling and
 - **[space-logistics-optimization](https://github.com/masaisaji/space-logistics-optimization)**: Mixed-integer optimization toolbox for space logistics and mission planning in Python
 - **[alcoord](https://github.com/masaisaji/alcoord)**: Python implementation of Augmented Lagrangian Coordination framework for decomposition-based optimization
 - **[gpu-matrixfree-ipm](https://github.com/masaisaji/gpu-matrixfree-ipm)**: C + CUDA C implementation of GPU accelerated matrix-free interior point method for LP
+- **[mars-conops-optimization](https://github.com/masaisaji/mars-conops-optimization)**: Mars "Drop Tank" ConOps + subsystem optimization tool, source code for [this publication](https://www.sciencedirect.com/science/article/pii/S0094576525008161?via%3Dihub)
 
 ## Links
 - [Google Scholar](https://scholar.google.com/citations?user=YVFMhRYAAAAJ&hl=en&authuser=1)
